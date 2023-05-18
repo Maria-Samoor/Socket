@@ -15,7 +15,7 @@ README.md: This file, providing an overview of the repository and instructions.
 To use the chat socket code in your project, follow these steps:
 
 ### Clone the repository:
-git clone https://github.com/your-username/python-chat-socket.git
+git clone (https://github.com/Maria-Samoor/socket.git)
 
 ### Navigate to the repository's directory:
 cd python-chat-socket/
